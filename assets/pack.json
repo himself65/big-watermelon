@@ -1,0 +1,11 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "image",
+        "key": "ball",
+        "url": "./assets/sprites/ball.png"
+      }
+    ]
+  }
+}
